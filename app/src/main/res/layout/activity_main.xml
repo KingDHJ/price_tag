@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <com.dhj.price_tag.SlidingPriceBar
+        android:id="@+id/spb"
+        android:background="#fff"
+        android:layout_width="wrap_content"
+        android:layout_height="1700px"
+        custom:price_u="500"
+        custom:price_d="200"/>
+
+</RelativeLayout>

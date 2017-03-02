@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<declare-styleable name="SlidingPriceBar">-->
+        <!--<attr name="price_u" format="integer"></attr>-->
+        <!--<attr name="price_d" format="integer"></attr>-->
+    <!--</declare-styleable>-->
+
+    <declare-styleable name="slidingpricebar">
+        <attr name="price_u" format="integer"></attr>
+        <attr name="price_d" format="integer"></attr>
+    </declare-styleable>
+
+</resources>
